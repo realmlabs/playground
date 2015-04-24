@@ -9,3 +9,14 @@ Everything in here is Open Source.  By contributing you agree to license your co
 Make a subdirectory for your projects.
 
 Info about stuff can also go in the wiki for this project. 
+
+
+## CHALLENGE
+
+Need to learn/practice github?   Your challenge is to figure out how to 
+pull this repository and tag this file with your gamer handle and then push
+it and merge it in!  Shouldn't be too hard for those with experience but a
+reasonable first step if you're brand new to git.
+
+Tags: 
+Jay / n1rvana / Blitz on WoW
