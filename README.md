@@ -19,5 +19,5 @@ it and merge it in!  Shouldn't be too hard for those with experience but a
 reasonable first step if you're brand new to git.
 
 Tags: 
-Jay / n1rvana / Blitz on WoW  
+Saxon / lvsaxon / Cataclyse on Tera 
 Songge / lapsce
