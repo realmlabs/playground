@@ -21,3 +21,4 @@ reasonable first step if you're brand new to git.
 Tags: 
 Saxon / lvsaxon / Cataclyse on Tera 
 Songge / lapsce / ktmn110 / M1N3
+Kenealy / murdocks573 / Kitty on HotS
