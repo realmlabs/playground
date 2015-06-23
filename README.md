@@ -27,5 +27,5 @@ ktmn110 / M1N3
 Kenealy / murdocks573 / Kitty on HotS  
 bkjk100/ bkPATS/ atxbk100  
 dflorence21 / Mr Flotastic 21 on XB / Mr_Flotastic_21 on PS  
-jeffrey / Maytix on League & Steam / Maytix#1665 on BNet
+jeffrey / Maytix on League & Steam / Maytix#1665 on BNet  
 zapien256 / zapien256
