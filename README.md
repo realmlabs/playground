@@ -30,3 +30,4 @@ dflorence21 / Mr Flotastic 21 on XB / Mr_Flotastic_21 on PS
 jeffrey / Maytix on League & Steam / Maytix#1665 on BNet  
 zapien256 / zapien256
 kaima / kaima
+ejgbadebo / DeathNapalm - Steam
