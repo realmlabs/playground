@@ -28,8 +28,8 @@ Kenealy / murdocks573 / Kitty on HotS
 bkjk100/ bkPATS/ atxbk100  
 dflorence21 / Mr Flotastic 21 on XB / Mr_Flotastic_21 on PS  
 jeffrey / Maytix on League & Steam / Maytix#1665 on BNet  
-zapien256 / zapien256
-kaima / kaima
-ejgbadebo / DeathNapalm - Steam
-vnxi / Aishitarti on PSO2 / SkyShadowed on League (I don't play too much tho)
-freya / Asphidel on League, Steam, etc
+zapien256 / zapien256  
+kaima / kaima  
+ejgbadebo / DeathNapalm - Steam  
+vnxi / Aishitarti on PSO2 / SkyShadowed on League (I don't play too much tho)  
+freya / Asphidel on League, Steam, etc  
