@@ -32,3 +32,4 @@ zapien256 / zapien256
 kaima / kaima
 ejgbadebo / DeathNapalm - Steam
 vnxi / Aishitarti on PSO2 / SkyShadowed on League (I don't play too much tho)
+freya / Asphidel on League, Steam, etc
