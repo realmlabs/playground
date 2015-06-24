@@ -31,3 +31,4 @@ jeffrey / Maytix on League & Steam / Maytix#1665 on BNet
 zapien256 / zapien256
 kaima / kaima
 ejgbadebo / DeathNapalm - Steam
+vnxi / Aishitarti on PSO2 / SkyShadowed on League (I don't play too much tho)
