@@ -33,3 +33,4 @@ kaima / kaima
 ejgbadebo / DeathNapalm - Steam  
 vnxi / Aishitarti on PSO2 / SkyShadowed on League (I don't play too much tho)  
 freya / Asphidel on League, Steam, etc  
+Cryptno on Smite / Screw You Guyz on League
